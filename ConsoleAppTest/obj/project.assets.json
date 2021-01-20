@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hizwat\\source\\repos\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
+      "projectUniqueName": "C:\\Users\\Hizwat\\source\\repos\\gitclonetest\\testgitbash\\ConsoleAppTest\\ConsoleAppTest.csproj",
       "projectName": "ConsoleAppTest",
-      "projectPath": "C:\\Users\\Hizwat\\source\\repos\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
+      "projectPath": "C:\\Users\\Hizwat\\source\\repos\\gitclonetest\\testgitbash\\ConsoleAppTest\\ConsoleAppTest.csproj",
       "packagesPath": "C:\\Users\\Hizwat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hizwat\\source\\repos\\ConsoleAppTest\\ConsoleAppTest\\obj\\",
+      "outputPath": "C:\\Users\\Hizwat\\source\\repos\\gitclonetest\\testgitbash\\ConsoleAppTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
