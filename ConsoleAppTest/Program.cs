@@ -28,6 +28,7 @@ namespace ConsoleAppTest
             else
             {
                 Console.WriteLine("Service is idle");
+                Console.WriteLine("Testing the changes commit");
             }
 
         }
